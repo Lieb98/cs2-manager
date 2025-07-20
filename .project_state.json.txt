@@ -1,0 +1,35 @@
+{
+  "projet": {
+    "nom": "CS2 Manager",
+    "objectif_global": "Créer un jeu de gestion d’équipe e-sport dans un univers fictif CS2, avec une interface graphique stylée, une logique de progression, des mécaniques tactiques, économiques, et une narration immersive.",
+    "type_interface": "graphique",
+    "stack_technique": {
+      "frontend": "React (tableaux, menus, UI stylée)",
+      "backend": "Python (Flask)",
+      "base_de_donnees": "SQLite (au début, ou JSON local)"
+    },
+    "etat": "en_construction"
+  },
+  "etat_actuel": {
+    "etape_id": 1,
+    "resume": "Projet initialisé. Pas encore de fichiers générés.",
+    "structure_dossier": ["src", "history", "project_state.json"],
+    "fichiers_existants": [],
+    "modules_implementes": [],
+    "features_detectees": [],
+    "last_updated": "2025-07-20T15:00:00"
+  },
+  "etapes_realisees": [],
+  "etape_en_cours": {
+    "intitule": "Initialisation du squelette du projet fullstack",
+    "responsable": "Directeur IA",
+    "objectifs": [
+      "Créer arborescence frontend/backend séparés",
+      "Générer main.py côté backend",
+      "Préparer le fichier index.html ou app.jsx avec menu graphique basique"
+    ],
+    "statut": "en_attente",
+    "commentaires": [],
+    "iteration": 1
+  }
+}
